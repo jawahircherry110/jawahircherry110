@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there 👋, I’m Jawahir Ali
+👨‍💻 About Me
+I’m a Full-Stack Developer passionate about creating clean, efficient, and scalable web applications. I love learning new technologies and exploring innovative solutions.
 
-<!--
-**jawahircherry110/jawahircherry110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Experienced in HTML, CSS, Bootstrap, JavaScript, React, NodeJs,MongoDB and MySQL
 
-Here are some ideas to get you started:
+⚡ Interested in Web Development and AI | ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Always learning and experimenting with new tools and frameworks
+
+📫 You can reach me at: infojawahirali@gmail.com
+
+🛠 Skills
+
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js , php
+Database: MySQL, Firebase , MongoDB
+Tools & Others: Git, GitHub, VS Code
